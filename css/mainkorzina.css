@@ -1,0 +1,30 @@
+.imgcol1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+ margin-top: -270px;
+}
+.container090 {
+  margin-left: 300px;
+  width: 1170px;
+  /*позиционирование по центру*/
+     border: 4px double black; /* Параметры границы */
+     border-color: silver ;
+    background: ; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+ 
+}
+
+.pkorxina {
+  margin-left: 230px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.boederkorzina {
+
+}
+
+.cinaa {
+  margin-left: ;
+}
